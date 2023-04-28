@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Conduct a market research study",
+    "start": "10:00",
+    "duration": 3,
+    "importance": 25,
+    "urgent": false
+  },
+  {
+    "name": "Send out monthly newsletter",
+    "start": "14:00",
+    "duration": 1,
+    "importance": 20,
+    "urgent": false
+  },
+  {
+    "name": "Schedule team meeting",
+    "start": "11:00",
+    "duration": 2,
+    "importance": 15,
+    "urgent": false
+  },
+  {
+    "name": "Update website content",
+    "start": "09:00",
+    "duration": 5,
+    "importance": 30,
+    "urgent": true
+  },
+  {
+    "name": "Create marketing campaign",
+    "start": "13:00",
+    "duration": 4,
+    "importance": 40,
+    "urgent": false
+  },
+  {
+    "name": "Attend networking event",
+    "start": "18:00",
+    "duration": 2,
+    "importance": 20,
+    "urgent": true
+  },
+  {
+    "name": "Write blog post",
+    "start": "12:00",
+    "duration": 2,
+    "importance": 25,
+    "urgent": false
+  },
+  {
+    "name": "Research new product development",
+    "start": "15:00",
+    "duration": 3,
+    "importance": 35,
+    "urgent": false
+  },
+  {
+    "name": "Prepare financial report",
+    "start": "10:00",
+    "duration": 4,
+    "importance": 30,
+    "urgent": false
+  },
+  {
+    "name": "Create employee training program",
+    "start": "11:00",
+    "duration": 5,
+    "importance": 40,
+    "urgent": true
+  },
+  {
+    "name": "Develop social media strategy",
+    "start": "09:00",
+    "duration": 3,
+    "importance": 30,
+    "urgent": false
+  },
+  {
+    "name": "Meet with new client",
+    "start": "14:00",
+    "duration": 2,
+    "importance": 25,
+    "urgent": true
+  },
+  {
+    "name": "Create project plan",
+    "start": "13:00",
+    "duration": 4,
+    "importance": 35,
+    "urgent": false
+  },
+  {
+    "name": "Revise employee handbook",
+    "start": "16:00",
+    "duration": 3,
+    "importance": 20,
+    "urgent": false
+  },
+  {
+    "name": "Conduct performance review",
+    "start": "10:00",
+    "duration": 2,
+    "importance": 25,
+    "urgent": false
+  },
+  {
+    "name": "Attend industry conference",
+    "start": "09:00",
+    "duration": 3,
+    "importance": 30,
+    "urgent": true
+  },
+  {
+    "name": "Create product demo video",
+    "start": "11:00",
+    "duration": 4,
+    "importance": 35,
+    "urgent": false
+  },
+  {
+    "name": "Review and respond to emails",
+    "start": "09:30",
+    "duration": 2,
+    "importance": 10,
+    "urgent": false
+  },
+  {
+    "name": "Hold a team meeting",
+    "start": "14:00",
+    "duration": 1,
+    "importance": 15,
+    "urgent": false
+  },
+  {
+    "name": "Prepare a project proposal",
+    "start": "11:00",
+    "duration": 3,
+    "importance": 25,
+    "urgent": true
+  },
+  {
+    "name": "Attend a networking event",
+    "start": "18:00",
+    "duration": 3,
+    "importance": 35,
+    "urgent": true
+  },
+  {
+    "name": "Train new employees on company processes",
+    "start": "13:00",
+    "duration": 4,
+    "importance": 30,
+    "urgent": false
+  },
+  {
+    "name": "Create a presentation for a client meeting",
+    "start": "09:00",
+    "duration": 5,
+    "importance": 40,
+    "urgent": true
+  },
+  {
+    "name": "Review and update company website",
+    "start": "16:00",
+    "duration": 2,
+    "importance": 20,
+    "urgent": false
+  },
+  {
+    "name": "Conduct market research on new product ideas",
+    "start": "10:00",
+    "duration": 4,
+    "importance": 35,
+    "urgent": true
+  },
+  {
+    "name": "Attend a conference in another city",
+    "start": "07:00",
+    "duration": 2,
+    "importance": 30,
+    "urgent": true
+  },
+  {
+    "name": "Follow up on outstanding invoices",
+    "start": "14:00",
+    "duration": 2,
+    "importance": 25,
+    "urgent": false
+  },
+  {
+    "name": "Create a social media advertising campaign",
+    "start": "12:00",
+    "duration": 3,
+    "importance": 30,
+    "urgent": false
+  },
+  {
+    "name": "Meet with a potential new client",
+    "start": "11:00",
+    "duration": 2,
+    "importance": 25,
+    "urgent": true
+  },
+  {
+    "name": "Conduct performance evaluations for employees",
+    "start": "09:00",
+    "duration": 6,
+    "importance": 40,
+    "urgent": false
+  },
+  {
+    "name": "Attend a training session for a new software tool",
+    "start": "13:00",
+    "duration": 3,
+    "importance": 20,
+    "urgent": false
+  },
+  {
+    "name": "Create and distribute a company newsletter",
+    "start": "16:00",
+    "duration": 2,
+    "importance": 15,
+    "urgent": false
+  },
+  {
+    "name": "Prepare and deliver a sales pitch to a potential client",
+    "start": "11:00",
+    "duration": 4,
+    "importance": 35,
+    "urgent": true
+  }
+]
