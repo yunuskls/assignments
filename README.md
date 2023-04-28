@@ -1,1 +1,1 @@
-This repository includes the programming assignments i have made for my classes.
+This repository is a collection of the programming assignments I have made for my university lectures.
