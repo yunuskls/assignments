@@ -1,0 +1,2 @@
+C:/Users/GAME/Desktop/C++/assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GAME/Desktop/C++/assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
